@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rm7JsidainrTeFHEjDxgQyDZPqvBjo/UOHLaMF6MoEVy/CPd1YEd+iAhqRzB/7mx5gIc7Vxu9wfzNRK5kuCtiQ==",
+  "success": true,
+  "projectFilePath": "C:\\ALLFOLDER\\proj\\zoopark\\zoopark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antis\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\antis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
